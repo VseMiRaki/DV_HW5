@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 from scipy.stats import multivariate_normal
 from matplotlib import pyplot as plt
-from sklearn import datasets
 from matplotlib.colors import ListedColormap
 
 class SOMNetwork():
